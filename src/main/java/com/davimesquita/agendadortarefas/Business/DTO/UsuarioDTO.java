@@ -1,8 +1,6 @@
-package com.davimesquita.agendadortarefas.Business;
+package com.davimesquita.agendadortarefas.Business.DTO;
 
 import lombok.*;
-
-import java.util.List;
 
 @Getter
 @Setter

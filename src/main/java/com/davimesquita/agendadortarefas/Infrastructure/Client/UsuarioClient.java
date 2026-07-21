@@ -1,6 +1,6 @@
 package com.davimesquita.agendadortarefas.Infrastructure.Client;
 
-import com.davimesquita.agendadortarefas.Business.UsuarioDTO;
+import com.davimesquita.agendadortarefas.Business.DTO.UsuarioDTO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestHeader;
